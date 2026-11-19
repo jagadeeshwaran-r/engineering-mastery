@@ -1,0 +1,17 @@
+# Prevent accidental publication of personally held ebooks
+*.pdf
+*.epub
+*.mobi
+*.azw
+*.azw3
+*.djvu
+*.cbz
+*.cbr
+
+# System/editor clutter
+.DS_Store
+._*
+Thumbs.db
+.vscode/
+.idea/
+*.swp

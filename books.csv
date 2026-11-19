@@ -1,0 +1,17 @@
+id,category,title,authors,edition_or_context,topic,reading_status
+MATH-001,01_Foundational_Math,Basic Mathematics,Serge Lang,,Mathematical foundations,Not tracked
+MATH-002,01_Foundational_Math,Calculus Made Easy,Silvanus P. Thompson,,Calculus,Not tracked
+DISC-001,02_Logic_and_Discrete_Math,Discrete Mathematics and Its Applications,Kenneth H. Rosen,,Discrete mathematics,Not tracked
+DISC-002,02_Logic_and_Discrete_Math,How to Prove It: A Structured Approach,Daniel J. Velleman,,Proof techniques,Not tracked
+PS-001,03_Problem_Solving,How to Solve It,George Pólya,,Problem-solving methods,Not tracked
+PS-002,03_Problem_Solving,The Art and Craft of Problem Solving,Paul Zeitz,,Mathematical problem solving,Not tracked
+DSA-001,04_Data_Structures_Algorithms,Algorithms — Chapter One,Unverified,Chapter/excerpt; parent source to confirm,Algorithms,Not tracked
+DSA-002,04_Data_Structures_Algorithms,Introduction to Algorithms,"Cormen, Leiserson, Rivest & Stein",,Algorithm design and analysis,Not tracked
+SYS-001,05_Systems_Architecture,Designing Data-Intensive Applications,Martin Kleppmann,,Data systems,Not tracked
+SYS-002,05_Systems_Architecture,Computer Systems: A Programmer's Perspective,Randal E. Bryant & David R. O’Hallaron,2016 file shown; confirm edition,Computer systems,Not tracked
+PERF-001,06_Performance_Concurrency,Computer Systems: A Programmer's Perspective,Randal E. Bryant & David R. O’Hallaron,Third edition,Computer systems,Not tracked
+PERF-002,06_Performance_Concurrency,Java Concurrency in Practice,Brian Goetz et al.,,Java concurrency,Not tracked
+PERF-003,06_Performance_Concurrency,Computer Systems: A Programmer's Perspective,Randal E. Bryant & David R. O’Hallaron,Second edition,Computer systems,Not tracked
+DES-001,07_Clean_Code_Design,Clean Architecture,Robert C. Martin,,Software architecture,Not tracked
+DES-002,07_Clean_Code_Design,Clean Code,Robert C. Martin,,Code quality,Not tracked
+DES-003,07_Clean_Code_Design,The Pragmatic Programmer,Andrew Hunt & David Thomas,,Software craftsmanship,Not tracked
