@@ -1,17 +1,17 @@
-id,category,title,authors,edition_or_context,topic,reading_status
-MATH-001,01_Foundational_Math,Basic Mathematics,Serge Lang,,Mathematical foundations,Not tracked
-MATH-002,01_Foundational_Math,Calculus Made Easy,Silvanus P. Thompson,,Calculus,Not tracked
-DISC-001,02_Logic_and_Discrete_Math,Discrete Mathematics and Its Applications,Kenneth H. Rosen,,Discrete mathematics,Not tracked
-DISC-002,02_Logic_and_Discrete_Math,How to Prove It: A Structured Approach,Daniel J. Velleman,,Proof techniques,Not tracked
-PS-001,03_Problem_Solving,How to Solve It,George Pólya,,Problem-solving methods,Not tracked
-PS-002,03_Problem_Solving,The Art and Craft of Problem Solving,Paul Zeitz,,Mathematical problem solving,Not tracked
-DSA-001,04_Data_Structures_Algorithms,Algorithms — Chapter One,Unverified,Chapter/excerpt; parent source to confirm,Algorithms,Not tracked
-DSA-002,04_Data_Structures_Algorithms,Introduction to Algorithms,"Cormen, Leiserson, Rivest & Stein",,Algorithm design and analysis,Not tracked
-SYS-001,05_Systems_Architecture,Designing Data-Intensive Applications,Martin Kleppmann,,Data systems,Not tracked
-SYS-002,05_Systems_Architecture,Computer Systems: A Programmer's Perspective,Randal E. Bryant & David R. O’Hallaron,2016 file shown; confirm edition,Computer systems,Not tracked
-PERF-001,06_Performance_Concurrency,Computer Systems: A Programmer's Perspective,Randal E. Bryant & David R. O’Hallaron,Third edition,Computer systems,Not tracked
-PERF-002,06_Performance_Concurrency,Java Concurrency in Practice,Brian Goetz et al.,,Java concurrency,Not tracked
-PERF-003,06_Performance_Concurrency,Computer Systems: A Programmer's Perspective,Randal E. Bryant & David R. O’Hallaron,Second edition,Computer systems,Not tracked
-DES-001,07_Clean_Code_Design,Clean Architecture,Robert C. Martin,,Software architecture,Not tracked
-DES-002,07_Clean_Code_Design,Clean Code,Robert C. Martin,,Code quality,Not tracked
-DES-003,07_Clean_Code_Design,The Pragmatic Programmer,Andrew Hunt & David Thomas,,Software craftsmanship,Not tracked
+id,category,title,authors,edition_or_context,topic,reading_status,purpose,guide_path
+MATH-001,01_Foundational_Math,Basic Mathematics,Serge Lang,,Mathematical foundations,Not tracked,"Rebuilds algebra, functions, and mathematical fluency.",reading-guides/basic-mathematics.md
+MATH-002,01_Foundational_Math,Calculus Made Easy,Silvanus P. Thompson,,Calculus,Not tracked,"Makes change, derivatives, and integration approachable.",reading-guides/calculus-made-easy.md
+DISC-001,02_Logic_and_Discrete_Math,Discrete Mathematics and Its Applications,Kenneth H. Rosen,,Discrete mathematics,Not tracked,Connects logic and discrete structures to computing.,reading-guides/discrete-mathematics.md
+DISC-002,02_Logic_and_Discrete_Math,How to Prove It: A Structured Approach,Daniel J. Velleman,,Proof techniques,Not tracked,Teaches how to build and communicate sound proofs.,reading-guides/how-to-prove-it.md
+PS-001,03_Problem_Solving,How to Solve It,George Pólya,,Problem-solving methods,Not tracked,Introduces a repeatable approach to unfamiliar problems.,reading-guides/how-to-solve-it.md
+PS-002,03_Problem_Solving,The Art and Craft of Problem Solving,Paul Zeitz,,Mathematical problem solving,Not tracked,Develops deeper mathematical problem-solving techniques and persistence.,reading-guides/art-and-craft-of-problem-solving.md
+DSA-001,04_Data_Structures_Algorithms,Algorithms — Chapter One,Not verified,Excerpt; parent text not identified,Algorithms,Not tracked,Keeps the introductory algorithm excerpt discoverable pending source verification.,reading-guides/algorithms-chapter-one.md
+DSA-002,04_Data_Structures_Algorithms,Introduction to Algorithms,"Cormen, Leiserson, Rivest & Stein",,Algorithm design and analysis,Not tracked,"Provides rigorous treatment of algorithm design, correctness and complexity.",reading-guides/introduction-to-algorithms.md
+SYS-001,05_Systems_Architecture,Designing Data-Intensive Applications,Martin Kleppmann,,Data systems,Not tracked,Connects database and distributed-system choices to real engineering trade-offs.,reading-guides/designing-data-intensive-applications.md
+SYS-002,05_Systems_Architecture,Computer Systems: A Programmer's Perspective,Randal E. Bryant & David R. O’Hallaron,File marked 2016; possibly overlaps with the third edition,Computer systems,Not tracked,Explains the machine-level behavior underlying software performance and correctness.,reading-guides/computer-systems-a-programmers-perspective.md
+PERF-001,06_Performance_Concurrency,Computer Systems: A Programmer's Perspective,Randal E. Bryant & David R. O’Hallaron,Third edition,Computer systems,Not tracked,Serves as a modernized systems reference for performance-oriented reading.,reading-guides/computer-systems-a-programmers-perspective.md
+PERF-002,06_Performance_Concurrency,Java Concurrency in Practice,Brian Goetz and contributors,,Java concurrency,Not tracked,Builds disciplined reasoning about Java thread safety and shared state.,reading-guides/java-concurrency-in-practice.md
+PERF-003,06_Performance_Concurrency,Computer Systems: A Programmer's Perspective,Randal E. Bryant & David R. O’Hallaron,Second edition,Computer systems,Not tracked,Preserves an older edition for comparison rather than creating a separate reading requirement.,reading-guides/computer-systems-a-programmers-perspective.md
+DES-001,07_Clean_Code_Design,Clean Architecture,Robert C. Martin,,Software architecture,Not tracked,"Frames software boundaries, dependencies and architectural decision-making.",reading-guides/clean-architecture.md
+DES-002,07_Clean_Code_Design,Clean Code,Robert C. Martin,,Code quality,Not tracked,"Prompts critical reflection on naming, structure and maintainability.",reading-guides/clean-code.md
+DES-003,07_Clean_Code_Design,The Pragmatic Programmer,Andrew Hunt & David Thomas,20th Anniversary Edition shown in repository filename,Software craftsmanship,Not tracked,"Encourages practical judgment, continuous learning and better engineering habits.",reading-guides/the-pragmatic-programmer.md

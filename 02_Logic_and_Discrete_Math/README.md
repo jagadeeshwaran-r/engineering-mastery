@@ -1,23 +1,38 @@
-# Logic & Discrete Mathematics
+# 02 · Logic & Discrete Mathematics
 
-[← Engineering Mastery](../README.md) · [Full catalog](../CATALOG.md)
+[← Home](../README.md) · [Start here](../START_HERE.md) · [Catalog](../CATALOG.md) · [Reading paths](../LEARNING_PATH.md)
 
-Develop proof-writing and rigorous reasoning skills.
+> Proofs and discrete structures
 
-**Core topics:** Logic, sets, relations, combinatorics, mathematical proofs.
+## Why this category exists
 
-## References
+Computer programs make claims about conditions, states, sets and finite structures. Proof techniques and discrete mathematics help make those claims precise.
 
-| ID | Title | Author | Edition / context |
-|---|---|---|---|
-| `DISC-001` | Discrete Mathematics and Its Applications | Kenneth H. Rosen | — |
-| `DISC-002` | How to Prove It: A Structured Approach | Daniel J. Velleman | — |
+## What you'll learn
 
-## What to capture in your notes
+- Use logical statements and quantifiers
+- Write and review simple proofs
+- Recognize sets, relations, counting and graph models
 
-- **Key ideas:** define concepts in your own words.
-- **Worked examples:** explain a derivation, algorithm, implementation, or use case.
-- **Trade-offs:** record limitations, assumptions, and alternatives.
-- **Questions:** note gaps in understanding and what to revisit.
+## Books and why they belong here
 
-> This category is a reading index. Book files are intentionally excluded from the public repository.
+| Book / guide | Role | Why it is included |
+|---|---|---|
+| [Discrete Mathematics and Its Applications](../reading-guides/discrete-mathematics.md) | Core reference | Connects logic and discrete structures to computing. |
+| [How to Prove It: A Structured Approach](../reading-guides/how-to-prove-it.md) | Reasoning | Teaches how to build and communicate sound proofs. |
+
+## Suggested reading order
+
+Use **How to Prove It** to establish proof technique; consult **Discrete Mathematics and Its Applications** for the wider toolset.
+
+## A practical outcome
+
+Write an induction proof and express a practical problem as a graph or set relation.
+
+## See also
+
+- [Complete annotated catalog](../CATALOG.md)
+- [All book guides](../reading-guides/README.md)
+- [Copyright and content policy](../CONTENT_POLICY.md)
+
+<sub>These explanations are curator's recommendations based on identified titles and general subject matter; they are not chapter-by-chapter reviews of the uploaded PDFs.</sub>

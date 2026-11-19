@@ -1,32 +1,32 @@
 # Book Entry Template
 
-Copy this template to record a book. Link to its publisher or an authorized source, not an unauthorized PDF download.
+[← Home](README.md) · [Catalog](CATALOG.md)
 
-## Bibliographic information
+**Title:**
+**Author(s):**
+**Edition / year (verified or unknown):**
+**Subject shelf:**
+**Official publisher or authorized reference URL:**
+**Reading status:** Not tracked / To read / Reading / Completed / Revisit
 
-- **Title:**
-- **Author(s):**
-- **Edition / publication year:**
-- **Category:**
-- **Official/publisher link:**
-- **Reading status:** Not tracked / To read / Reading / Completed / Revisit
+## Why this reference belongs here
 
-## Why read it?
+In two or three sentences, explain the unique value it adds to the learning library. Mention what gap it fills.
 
-Explain which engineering or mathematical problems the reference helps solve.
+## What the reader should learn
 
-## Topics to focus on
+- Concept or skill 1
+- Concept or skill 2
+- Concept or skill 3
 
-- Topic 1
-- Topic 2
-- Topic 3
+## How to use it
 
-## Original study notes
+Suggest when to start and what to know beforehand. If the book overlaps with another title, explain the distinction.
 
-Describe concepts in your own words and cite relevant chapters/pages. Do not reproduce copyrighted chapters.
+## Practical exercise
 
-## Applications and exercises
+Describe one original proof, example, coding task, or architecture exercise that tests understanding.
 
-- One concrete problem:
-- One implementation or derivation:
-- One question to revisit:
+## Notes and verification
+
+Record unverified metadata, edition overlap, and open questions explicitly. Use original wording and do not upload copyrighted PDFs without permission.

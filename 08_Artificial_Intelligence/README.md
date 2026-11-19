@@ -1,20 +1,37 @@
-# Artificial Intelligence
+# 08 · Artificial Intelligence
 
-[← Engineering Mastery](../README.md) · [Full catalog](../CATALOG.md)
+[← Home](../README.md) · [Start here](../START_HERE.md) · [Catalog](../CATALOG.md) · [Reading paths](../LEARNING_PATH.md)
 
-A dedicated shelf for future AI, machine learning, and deep learning references.
+> Future collection
 
-**Core topics:** Machine learning, deep learning, LLMs, evaluation, responsible AI.
+## Why this category exists
 
-## References
+AI methods connect linear algebra, probability, optimization and software engineering. This is a deliberately reserved shelf so future references can be added with a clear purpose.
 
-*No books have been added yet.* Start with a bibliography entry and your original notes.
+## What you'll learn
 
-## What to capture in your notes
+- Build mathematical prerequisites
+- Learn model training and evaluation
+- Examine trade-offs and responsible use
 
-- **Key ideas:** define concepts in your own words.
-- **Worked examples:** explain a derivation, algorithm, implementation, or use case.
-- **Trade-offs:** record limitations, assumptions, and alternatives.
-- **Questions:** note gaps in understanding and what to revisit.
+## Books and why they belong here
 
-> This category is a reading index. Book files are intentionally excluded from the public repository.
+| Book / guide | Role | Why it is included |
+|---|---|---|
+| _No references cataloged yet_ | Planned | New books will be added only with a clear purpose. |
+
+## Suggested reading order
+
+No books are currently cataloged. Start by identifying gaps in linear algebra, probability and statistics before choosing ML references.
+
+## A practical outcome
+
+Add a verified AI reference with a clear reading objective; the shelf is currently a roadmap, not a completed collection.
+
+## See also
+
+- [Complete annotated catalog](../CATALOG.md)
+- [All book guides](../reading-guides/README.md)
+- [Copyright and content policy](../CONTENT_POLICY.md)
+
+<sub>These explanations are curator's recommendations based on identified titles and general subject matter; they are not chapter-by-chapter reviews of the uploaded PDFs.</sub>

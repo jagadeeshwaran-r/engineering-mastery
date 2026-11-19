@@ -1,26 +1,27 @@
-# Contributing
+# Ownership & Updates
 
-Thank you for helping Engineering Mastery become a more accurate and useful reference library.
+[← Home](README.md) · [Book entry template](BOOK_ENTRY_TEMPLATE.md)
 
-## Contributions welcome
+## Public read-only access
 
-- Corrections to book metadata, editions, and subject classification.
-- Official publisher/author links and legitimately open-access references.
-- Original study notes, concise walkthroughs, code samples, and mathematical derivations.
-- Proposals for new subjects and reading paths.
+Engineering Mastery is maintained by its owner as a **public reference library**. Ordinary GitHub visitors can browse and clone it but **cannot push directly** without write permission. GitHub's public repository model still allows forks and proposed pull requests.
 
-## Not accepted
+The repository is **not** an open-edit wiki, and no outside contribution is automatically accepted. Only the owner or explicitly authorized collaborators should publish changes.
 
-- Copyrighted PDFs/scans shared without permission, pirated downloads, or copied textbook chapters.
-- Copyrighted solution manuals or answer keys without permission.
-- Credentials, personal information, or private files.
+For stricter control of `main`, the owner can configure a GitHub branch ruleset requiring reviews and restricting pushes. This repository's Markdown files do not themselves enforce GitHub permissions.
 
-## Adding a book
+## Editorial standard
 
-1. Choose the best-fitting collection.
-2. Add an entry to `CATALOG.md`, `books.csv`, and the collection README.
-3. Verify title, author, and edition; include an official link if available.
-4. Add only your original notes or properly licensed content.
-5. Update the counts in the main README if needed.
+Before adding or changing a title:
 
-Use descriptive Markdown headings and cite references clearly.
+1. Verify the book title, author, and edition.
+2. Explain **why it belongs** in one category, not just what it is called.
+3. Add one **practical learning outcome** or exercise.
+4. Update the category README, [catalog](CATALOG.md), [CSV](books.csv), and [guide index](reading-guides/README.md) if applicable.
+5. Use original text; keep unauthorized copyrighted files out of the public repository.
+
+Do not fabricate reading progress or claim to have reviewed book contents without doing so.
+
+## Copyright
+
+See [CONTENT_POLICY.md](CONTENT_POLICY.md). Existing PDF uploads require a rights review.
